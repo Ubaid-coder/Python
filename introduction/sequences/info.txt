@@ -1,0 +1,7 @@
+1- string
+2- list
+3- tupple
+
+Strings: 
+    immutable
+    "data" 'data'
