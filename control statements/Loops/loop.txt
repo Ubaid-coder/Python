@@ -1,0 +1,22 @@
+multiple times repeat
+
+1- while loop
+2- for loop
+
+---------------------
+while loop
+True
+
+while condition:
+    statement
+
+---------------------
+
+for loop
+[1,2,3,4,5]
+5 times
+
+list tuple dictionary string
+
+for variable in sequence:
+    code
