@@ -1,0 +1,36 @@
+string and characters
+
+numbers
+a-z A-z !@#$%^&*()_+
+white space
+" "
+
+single quotes - 'python'
+double - "python"
+
+'''
+this is a multi line string
+'''
+ indexing start with 0
+ +ve -ve
+a = 'python'
+p
+y
+t
+h
+o
+n
+print(a[0]) p
+"""
+this is a multi line string
+"""
+
+--------------------------
+3 characterstics
+
+1-immutable
+2-quotation
+3-iterable
+
+-------------------------
+4- Real life examples
