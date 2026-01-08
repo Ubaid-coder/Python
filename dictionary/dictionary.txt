@@ -1,0 +1,25 @@
+Python Dictionary
+1- Definition & Characteristics
+    Key-Value Pairs
+    Unordered (before Python 3.7)
+    Mutable
+
+2- Creation
+    Using {} braces
+    Using dict() constructor
+
+3- Operations
+    Adding items
+    Updating items
+    Deleting items
+
+4- Dictionary Methods
+    get(), keys(), values(), items()
+    pop(), popitems(), clear()
+
+5- Comprehensions
+    Dictionary Comprehensions
+
+6- Nested Dictionaries
+
+7- Common Use Cases
