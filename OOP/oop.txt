@@ -1,0 +1,4 @@
+1- poly: one name multiple forms
+2- encapsulation: hiding data and allowing controlled access
+3- inheritance: reuse properties/methods form a parent class
+4- abstraction: hiding unnessary details

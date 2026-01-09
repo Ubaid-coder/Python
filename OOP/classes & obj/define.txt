@@ -1,0 +1,12 @@
+a class is a blueprint or template for creating objects
+
+map - class
+house - objects
+
+object are the actual instance of a class
+
+class = car blueprint
+object = actual car
+
+------------------
+self is like a variable
